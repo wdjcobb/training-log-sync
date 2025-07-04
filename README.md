@@ -1,2 +1,2 @@
 # training-log-sync
-Automatically syncs Garmin running activities to a Google Sheet
+Automated sync tool for logging Garmin activities to Google Sheets — flexible, configurable, and designed for runners.
